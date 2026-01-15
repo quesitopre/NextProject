@@ -1,0 +1,4 @@
+.card{ /* cannnot use hyphen in class names in CSS modules-CC only */
+    padding: 1rem;
+    border: 1px solid #ccc;
+}
